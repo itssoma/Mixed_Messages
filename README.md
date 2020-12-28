@@ -9,13 +9,16 @@ This project in particular will return description phrases of people in the Russ
 >**Example Output:**
 > 
 >
->Мой брат очень хорошо.
+>Russian Sentence: Мой брат очень хорошо.
 > 
->My brother is very good.
+>English Equivalent: My brother is very good.
 >
 
+## Limitations
+Currently, the program has verbal limitations. As of the latest commit there are only four third-person possesors, four subjects, and four adjectives. As for the adjectives the message is limited to masculine and feminine spellings. Neuter subjects and adjective spellings are also missing.
+
 ## How to Use
-Download the `main.js` and run the script using **node.js**.
+Download the `mixed_messages.js` and run the script using **node.js**.
 
 ## Requirements
 Run the script using **node.js** or some equivalent tool that can run javascript.
