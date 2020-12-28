@@ -9,9 +9,9 @@ This project in particular will return description phrases of people in the Russ
 >**Example Output:**
 > 
 >
->Russian Sentence: Мой брат очень хороший.
+>Russian Sentence: Мой хороший брат.
 > 
->English Equivalent: My brother is very good.
+>English Equivalent: My good brother.
 >
 
 ## Limitations
