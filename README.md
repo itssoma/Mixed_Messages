@@ -9,7 +9,7 @@ This project in particular will return description phrases of people in the Russ
 >**Example Output:**
 > 
 >
->Russian Sentence: Мой брат очень хорошо.
+>Russian Sentence: Мой брат очень хороший.
 > 
 >English Equivalent: My brother is very good.
 >
