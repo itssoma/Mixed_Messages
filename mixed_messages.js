@@ -16,16 +16,16 @@ var adj = [['хороший.','хорошая.','is good.'],['устал.','ус
 
 // arrays that will capture the output settings.
 var sentence = [];
-sentence.push(pos[Math.floor(Math.random() * 4)]);
-sentence.push(subj[Math.floor(Math.random() * 4)]);
+sentence.push(pos[Math.floor(Math.random() * pos.length)]);
+sentence.push(subj[Math.floor(Math.random() * subj.length)]);
 
 //while loop to ensure the correct 'My' is used based on the subjects gender.
 while(sentence[1][2] != sentence[0][2] && sentence[0][2] != '0')
 {
     sentence.pop();
-    sentence.push(subj[Math.floor(Math.random() * 4)]);
+    sentence.push(subj[Math.floor(Math.random() * subj.length)]);
 }
-sentence.push(adj[Math.floor(Math.random() * 4)]);
+sentence.push(adj[Math.floor(Math.random() * adj.length)]);
 
 // arrays to store the generated sentence. one for russian and another from english.
 var ru_sentence = [sentence[0][0],sentence[1][0]];
