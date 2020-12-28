@@ -21,7 +21,8 @@ Currently, the program has verbal limitations. As of the latest commit there are
 Download the `mixed_messages.js` and run the script using **node.js**.
 
 ## Requirements
-Run the script using **node.js** or some equivalent tool that can run javascript.
+- **node.js** or some equivalent tool that can run javascript.
+- (*not entirely sure if needed*) Having cyrillic typeset on your computer.
 
 ## Resources
 1. [Codecademy](https://www.codecademy.com) *Where the project originates*
