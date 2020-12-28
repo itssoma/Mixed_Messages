@@ -42,11 +42,7 @@ else
 }
 
 // printed console statement.
-console.log();
-console.log();
-console.log("---------- RANDOM MESSAGE -----------");
+console.log("\n\n---------- RANDOM MESSAGE -----------");
 console.log("Russian Sentence: " + ru_sentence.join(' '));
 console.log('-------------------------------------');
-console.log("English Equivalent: " + eng_sentence.join(' '));
-console.log();
-console.log();
+console.log("English Equivalent: " + eng_sentence.join(' ') +'\n\n');
