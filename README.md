@@ -24,5 +24,5 @@ Download the `mixed_messages.js` and run the script using **node.js**.
 Run the script using **node.js** or some equivalent tool that can run javascript.
 
 ## Resources
-1. [Codecadmey](https://www.codecademy.com) *Where the project originates*
+1. [Codecademy](https://www.codecademy.com) *Where the project originates*
 2. [MDN Javacscript Resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript) *Reference sight for Javascript*
